@@ -38,6 +38,9 @@ window.addEventListener('load', function(){
 		}
 	}
 });
+</script>
+<script type="text/javascript">
+
 
 </script>
 </head>
@@ -46,6 +49,7 @@ window.addEventListener('load', function(){
 <hr>
 <table>
 	<tbody>
+	<%-- JSP 주석 --%>
 	<%
 		for (var i = 0; i < 20; i++){
 	%>
